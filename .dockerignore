@@ -1,0 +1,7 @@
+.venv
+.venc
+__pycache__
+*.mp3
+*.wav
+.env
+test_core.py
