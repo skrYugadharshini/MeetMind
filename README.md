@@ -4,7 +4,7 @@ Upload a meeting recording and MeetMind gives you a **transcript, summary, decis
 
 > Built step by step as a learning project: Colab prototype → Streamlit app → Docker container.
 
----
+
 
 ## ✨ Features
 
